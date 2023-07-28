@@ -30,8 +30,12 @@
 ### Добавление объектов в веб-хранилища
 
 **Добавление и получение объекта в "Session Storage"**
+![1](src/sessionStorage.png)
+![1](src/sessionStorage_2.png)
 
-**Добавление и получение объекта в "Session Storage"**
+**Добавление и получение объекта в "Local Storage"**
+![1](src/localStorage_1.png)
+![1](src/localStorage_2.png)
 
 
 
